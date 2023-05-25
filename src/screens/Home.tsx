@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
-const MusicList = () => {
+const Home = () => {
   return (
     <View>
-      <Text>All Music</Text>
+      <Text>Home</Text>
     </View>
   )
 }
 
-export default MusicList
+export default Home
 
 const styles = StyleSheet.create({})
